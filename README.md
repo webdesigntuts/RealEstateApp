@@ -1,4 +1,4 @@
-#THIS IS THE FIRST PART OF THE WEB APPLICATION 
+## THIS IS THE FIRST PART OF THE WEB APPLICATION 
 Strapi Backend will be published soon
 
 ## Available Scripts
