@@ -1,5 +1,6 @@
 ## THIS IS THE FIRST PART OF THE WEB APPLICATION 
 Strapi Backend will be published soon
+Video : https://youtu.be/CQeV-i6Dp84
 
 ## Available Scripts
 
