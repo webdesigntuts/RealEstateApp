@@ -11,7 +11,7 @@ const Navbar = ({ BurgerColour }) => {
     return (
       <li className={styles.navlink}>
         <NavLink
-          to={`${url}`}
+          to={`/${url}`}
           className={({ isActive }) => (isActive ? styles.active : undefined)}
         >
           {`${path}`}
