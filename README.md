@@ -1,6 +1,7 @@
 ## THIS IS THE FIRST PART OF THE WEB APPLICATION 
-Strapi Backend will be published soon.\
-Video Part_1: https://youtu.be/CQeV-i6Dp84
+Video Part_1: https://youtu.be/CQeV-i6Dp84 \
+Video Part_2: https://youtu.be/OqDYLrY4HWA \
+https://github.com/webdesigntuts/RealEstateAppFull
 
 ## Available Scripts
 
